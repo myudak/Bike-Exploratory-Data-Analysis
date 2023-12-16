@@ -1,1 +1,1 @@
-myudak-bike-exploratory-data-analysis.streamlit.app
+https://myudakk.streamlit.app/
