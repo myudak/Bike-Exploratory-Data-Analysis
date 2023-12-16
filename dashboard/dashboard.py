@@ -5,7 +5,7 @@ import streamlit as st
 from babel.numbers import format_currency
 
 #SETUP
-link = lambda x : f"https://raw.githubusercontent.com/myudak/Bike-Exploratory-Data-Analysis/main/Bike-sharing-dataset/{x}.csv"
+link = lambda x : f"https://raw.githubusercontent.com/myudak/Bike-Exploratory-Data-Analysis/main/data/{x}.csv"
 sns.set(style='dark')
 
 day_df = pd.read_csv(link("day"))
