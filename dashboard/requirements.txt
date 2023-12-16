@@ -1,6 +1,0 @@
-streamlit
-streamlit-option-menu
-streamlit-lottie
-pandas
-matplotlib
-seaborn
