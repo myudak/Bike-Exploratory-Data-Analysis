@@ -5,9 +5,8 @@ Project Akhir Dicoding Belajar Analisis Data dengan Python
 ## Setup environment
 
 ```
-pipenv install
 pipenv shell
-pip install
+pipenv install -r requirements.txt
 ```
 
 ## Run steamlit app
